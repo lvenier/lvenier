@@ -3,7 +3,7 @@
 
 ## Platform&Tools
 
-![](https://img.shields.io/badge/OS-Debian-dd4814?style=flat-square&logo=linux&logoColor=ffffff)
+![](https://img.shields.io/badge/OS-Debian-dd4814?style=flat-square&logo=debian&logoColor=ffffff)
 
 ## GitHub Stats
 
