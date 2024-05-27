@@ -10,3 +10,8 @@
 <a href="">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=lvenier&theme=light&show_icons=true" />
 </a>
+
+<a href="">
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=lvenier />
+</a>
+
