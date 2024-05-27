@@ -7,9 +7,9 @@
 
 ## GitHub Stats
 
-<a href="">
+<p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=lvenier&theme=light&show_icons=true" />
-</a>
+</p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=lvenier)](https://github.com/lvenier/github-profile-trophy)
 
