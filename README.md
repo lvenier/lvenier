@@ -3,7 +3,7 @@
 
 ## Platform&Tools
 
-![](https://img.shields.io/badge/OS-Debian-dd4814?style=flat-square&logo=debian&logoColor=ffffff)
+![](https://img.shields.io/badge/OS-Debian-d70a53?style=flat-square&logo=debian&logoColor=ffffff)
 
 ![](https://img.shields.io/badge/NoCode-Nodered-dd4814?style=flat-square&logo=nodered&logoColor=ffffff)
 
