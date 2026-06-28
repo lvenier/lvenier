@@ -10,8 +10,11 @@ A webcam-based boxing fitness game using JavaScript, p5.js, ml5.js and Electron.
 ### 🌍 CuriooCity
 A mobile geolocation exploration game for kids, inspired by real-world discovery and collectible cards.
 
-### ☁️ PaasBox
-A mini virtual datacenter / platform management stack using Docker, Traefik, NetBox, Grafana, Keycloak and automation.
+### ☁️ SaasHup
+A SAAS provider on top of PaasHup.
+
+### ☁️ PaasHup
+A mini virtual datacenter / platform management stack using Docker, Traefik, Paasbox, Grafana, Keycloak and automation.
 
 ### 🗺️ Curioo Tiles
 A custom OpenStreetMap tile generator with themes, metrics, health checks and automated tests.
