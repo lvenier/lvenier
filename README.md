@@ -30,10 +30,19 @@ A custom OpenStreetMap tile generator with themes, metrics, health checks and au
 
 ## 📊 GitHub Activity
 
-![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=lvenier&theme=flat&no-frame=true&margin-w=8)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=lvenier&show_icons=true&theme=dark&hide_border=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=lvenier&show_icons=true&theme=default&hide_border=true"
+    media="(prefers-color-scheme: light)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=lvenier&show_icons=true&hide_border=true" />
+</picture>
 
-<!-- Optional: replace this with locally generated SVG stats later -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lvenier&show_icons=true&theme=transparent&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lvenier&layout=compact&hide_border=true)
 
 ## 🎯 Current focus
 
