@@ -39,7 +39,7 @@ A custom OpenStreetMap tile generator with themes, metrics, health checks and au
 
 - Building more professional game experiences with JavaScript, p5.js, ml5.js and Electron
 - Improving CI/CD, Playwright tests and GitHub releases
-- Automating infrastructure stacks with Docker, Traefik, NetBox, Grafana and OIDC
+- Automating infrastructure stacks with Docker, Traefik, Paasbox, OIDC
 - Creating kid-friendly geolocation and exploration games
 
 ## 📫 Links
