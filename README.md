@@ -22,11 +22,8 @@ A custom OpenStreetMap tile generator with themes, metrics, health checks and au
 ![Docker](https://img.shields.io/badge/Containers-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Backend-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Electron](https://img.shields.io/badge/Desktop-Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 ![Unity](https://img.shields.io/badge/Game-Unity-000000?style=flat-square&logo=unity&logoColor=white)
-![NGINX](https://img.shields.io/badge/Proxy-NGINX-009639?style=flat-square&logo=nginx&logoColor=white)
-![Grafana](https://img.shields.io/badge/Monitoring-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Keycloak](https://img.shields.io/badge/Auth-Keycloak-4D4D4D?style=flat-square)
+
 
 ## 📊 GitHub Activity
 
